@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiaeeccles00augugoog_0006.png"; bbox 0 0 2572 4732; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 43 482 1234 609">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 43 482 1234 609">
+     <span class='ocr_line' id='line_1_1' title="bbox 43 482 1234 609; baseline 0.005 -8"><span class='ocrx_word' id='word_1_1' title='bbox 43 482 521 603; x_wconf 73' lang='lat' dir='ltr'>ffls&#39;romffl</span> <span class='ocrx_word' id='word_1_2' title='bbox 545 482 1234 609; x_wconf 76' lang='lat' dir='ltr'><strong>EGGLESIASTIGAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 192 823 1005 1041">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 192 823 1005 1041">
+     <span class='ocr_line' id='line_1_2' title="bbox 192 823 1005 1041; baseline 0 -24"><span class='ocrx_word' id='word_1_3' title='bbox 192 823 1005 1041; x_wconf 59' lang='lat' dir='ltr'>&#39;Evlwomm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 176 1790 1104 1885">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 176 1790 1104 1885">
+     <span class='ocr_line' id='line_1_3' title="bbox 176 1790 1104 1885; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 176 1790 536 1885; x_wconf 76' lang='lat' dir='ltr'>senous</span> <span class='ocrx_word' id='word_1_5' title='bbox 584 1790 1104 1885; x_wconf 71' lang='lat' dir='ltr'><strong>AcAnnmlcls</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1290 4732">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1290 4732">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1290 4732; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1290 4732; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
